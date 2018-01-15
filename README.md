@@ -12,11 +12,13 @@ practice the skills you will need on the job.
 
 ## About this Repo
 
-This your team's repo. The [Wiki]() that's part of this repo can be used as a
+This your team's repo. The Wiki that's part of this repo can be used as a
 quick reference
 as you make your way through the Voyage, but you and your team can and should
 make whatever modifications you deem necessary to help make your project a 
-success. 
+success.
+
+![Wiki](https://github.com/jdmedlock/voyage-repo-template/blob/development/images/GitHub%20repo%20tabs.png) 
 
 Other than this readme and the wiki we've intentionally left this repo blank
 so you can put your stamp on it. Treat this as an opportunity to create
