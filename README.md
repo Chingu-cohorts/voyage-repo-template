@@ -8,7 +8,7 @@ are hard work, but they are also very rewarding and you will learn more on a
 Voyage that you typically can on a solo project. 
 
 Just as importantly, Chingu Voyages create a setting to help you acquire and
-practice the skills you will need on the job.
+practice the *_hard_* and *_soft_* skills you will need on the job.
 
 ## About this Repo
 
