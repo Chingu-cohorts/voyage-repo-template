@@ -20,9 +20,8 @@ to prospective employers.
 
 ## The Voyage Wiki
 
-There's also a [Voyage Wiki](https://github.com/Chingu-cohorts/voyage-wiki/wiki
-
-that contains information you'll need as you and progress through the Voyage.
+There's also a [Voyage Wiki](https://github.com/Chingu-cohorts/voyage-wiki/wiki)
+which contains information you'll need as you and progress through the Voyage.
 It contains information and suggestions to help you understand what's required,
 what your obligations are, how jump start your team's project, and advice on 
 how to address different situations that may arise.
