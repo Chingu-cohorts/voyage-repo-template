@@ -12,28 +12,31 @@ practice the skills you will need on the job.
 
 ## About this Repo
 
-This your team's repo. The Wiki that's included with this repo can be used as a
-quick reference
-as you make your way through the Voyage, but you and your team can and should
-make whatever modifications you deem necessary to help make your project a 
-success.
+This your team's repo. So feel free to add, change, or remove any items it
+contains - *_including this readme_*. Other than this readme we've intentionally
+left this repo blank so you can put your stamp on it. Treat this as an
+opportunity to create something you are proud of and something you can show
+to prospective employers.
 
-![Wiki](https://github.com/jdmedlock/voyage-repo-template/blob/development/images/GitHub%20repo%20tabs.png) 
+## The Voyage Wiki
 
-Other than this readme and the wiki we've intentionally left this repo blank
-so you can put your stamp on it. Treat this as an opportunity to create
-something you are proud of and something you can show to prospective employers.
+There's also a [Voyage Wiki](https://github.com/Chingu-cohorts/voyage-wiki/wiki
 
-So feel free to add, change, or remove items in this repo - including this
-readme.
+that contains information you'll need as you and progress through the Voyage.
+It contains information and suggestions to help you understand what's required,
+what your obligations are, how jump start your team's project, and advice on 
+how to address different situations that may arise.
+
+This wiki is continuously updated based on input from Chingu teams and the
+experiences encountered in each Voyage. 
 
 ## Where to Start?
 
 The hardest two segments of any project are project initiation and closure.
-However, this repos wiki contains information you'll need to start, run, and
-close out your Voyage project.
+The [Voyage Wiki](https://github.com/Chingu-cohorts/voyage-wiki/wiki) contains
+information to help your team start, run, and close out your Voyage project.
 
 A good place to start is to carefully read the invitation emails you received
-at the start of the Voyage, and then review the contents of your repos wiki.
+at the start of the Voyage, and then review the contents of Voyage Wiki.
 
-***Good Luck and Get Started!***
+***Good Luck and Let's Get Started!***
